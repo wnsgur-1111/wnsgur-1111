@@ -7,8 +7,8 @@
 ## 📝 소개 (About Me)
 깔끔함을 추구하는 개발자 입니다
 
-*   🚀 현재 **[현재 집중하고 있는 공부나 프로젝트]**에 몰두하고 있습니다.
-*   💬 **[나와 소통할 수 있는 주제나 관심사]**에 대해 이야기 나누는 것을 좋아합니다.
+*   🚀 현재 프론트엔드 웹개발에 몰두하고 있습니다.
+*   💬 레이싱과 백엔드, 게임에 대해 이야기 나누는 것을 좋아합니다.
 *   📫 연락처: jake1414@naver.com
 
 ---
@@ -24,7 +24,8 @@
 > 제가 다룰 수 있거나 현재 깊이 있게 배우고 있는 기술들입니다.
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> [여기에 다루는 언어 스택 배지를 추가하세요]
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnWk22WCi9OapL7owUFxzaE6Wo9A1FEk0pOKl1hrIkZm3MhuYfAbyp6-i&s=10"/>
 
 ### Development Environment & Tools
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
