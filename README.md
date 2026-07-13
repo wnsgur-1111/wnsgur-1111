@@ -1,7 +1,7 @@
 # 👋 안녕하세요! 최준혁의 GitHub 공간입니다.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40" alt="header" />
 </p>
 
 ## 📝 소개 (About Me)
