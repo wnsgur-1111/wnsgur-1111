@@ -43,5 +43,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인의GitHub유저네임]&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JJunz__&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
