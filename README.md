@@ -25,7 +25,7 @@
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://blog.kakaocdn.net/dna/XuOXu/btrajQuCcbS/AAAAAAAAAAAAAAAAAAAAACyexj9OS5LEl0w-Iy4os6YdPoh4k4F6Pl4oVx5uof_K/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1785509999&allow_ip=&allow_referer=&signature=%2BauwRDYXoQADYpkaCKF2tn1LEvA%3D"/>
+<img src="https://velog.velcdn.com/images/wdohoon/post/c41381a3-d71e-43cb-a7c9-2d94618b0153/image.png"/>
 
 ### Development Environment & Tools
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
