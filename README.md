@@ -25,7 +25,7 @@
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnWk22WCi9OapL7owUFxzaE6Wo9A1FEk0pOKl1hrIkZm3MhuYfAbyp6-i&s=10"/>
+<img src="https://e7.pngegg.com/pngimages/876/605/png-clipart-front-end-web-development-web-design-front-and-back-ends-web-developer-web-design-web-design-text.png"/>
 
 ### Development Environment & Tools
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
